@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/PauloVGDS/clipsync-firmware.git
+[submodule "pc_client"]
+	path = pc_client
+	url = https://github.com/PauloVGDS/clipsync-pc-client.git
