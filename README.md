@@ -10,10 +10,11 @@ git submodules:
 |--------------|------------------------------------------------------|------------------------------------------------|
 | `firmware/`  | [PauloVGDS/clipsync-firmware][f]                     | ESP32 + ILI9341 + XPT2046 (PlatformIO/Arduino) |
 | `pc_client/` | [PauloVGDS/clipsync-pc-client][p]                    | Cliente Python (bleak + pyperclip)             |
-| `android/`   | (futuro) `PauloVGDS/clipsync-android`                | App Android nativo (substitui Tasker)          |
+| `android/`   | [PauloVGDS/clipsync-android][a]                      | App Android nativo (substitui Tasker)          |
 
 [f]: https://github.com/PauloVGDS/clipsync-firmware
 [p]: https://github.com/PauloVGDS/clipsync-pc-client
+[a]: https://github.com/PauloVGDS/clipsync-android
 
 ## Como clonar tudo de uma vez
 
